@@ -1,17 +1,13 @@
 +++
-date = "2016-11-20T14:28:41+02:00"
-draft = false
-title = "gohugo-amp"
-
+date = 2016-11-20T12:28:41Z
 index = true
-
+title = "akaes62-amp"
 [sitemap]
-  changefreq = "daily"
-  priority = 1.0
-  filename = "sitemap.xml"
-  
-+++
+changefreq = "daily"
+filename = "sitemap.xml"
+priority = 1
 
++++
 # gohugo-amp
 This Hugo theme is supposed to be a starter theme to make it easy to adapt to [Google's AMP-Project](https://www.ampproject.org/). Included in the theme are [**40+ shortcodes and partials**](https://gohugo-amp.gohugohq.com/shortcodes/) and [automatic Structured Data](https://gohugo-amp.gohugohq.com/schema/) making it a pleasure to embed AMP-Elements within your content files or your template.
 
